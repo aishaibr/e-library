@@ -1,0 +1,29 @@
+
+h1{
+    text-align: center;
+    font-family:"Segoe print","Algerian";
+    text-align:"center";
+    font-size: "60px";
+}
+body{
+    background-image:url('back.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+div{ 
+    font-size: large;
+    text-align: center;
+    background-color: rgb(196, 127, 137);
+    width: 400px;
+    height: 400px;
+    background-position:center;
+    
+   
+   
+}
+button{
+    font-size: medium;
+    color:black;
+
+}
